@@ -1,5 +1,6 @@
 ![Baner](https://github.com/ShinigamiOs/Basic-Quick-Chart-Generator/blob/main/images/Baner.png)
-# Basic-Quick-Chart-Generator
+# Basic-Quick-Chart-Generator - For Unity
+
 Chart generator using quickchart.io with a url
 
 Basic QuickChart.io URL Generator es una herramienta simple pero poderosa que te permite generar fácilmente URLs para crear gráficos personalizados utilizando QuickChart.io.
