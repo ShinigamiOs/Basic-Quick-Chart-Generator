@@ -1,3 +1,4 @@
+![Baner](https://github.com/ShinigamiOs/Basic-Quick-Chart-Generator/blob/main/images/Baner.png)
 # Basic-Quick-Chart-Generator
 Chart generator using quickchart.io with a url
 
